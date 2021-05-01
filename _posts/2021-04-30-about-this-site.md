@@ -6,6 +6,4 @@ summary: wut
 comments: false
 ---
 
-# 
-
 Hello World
