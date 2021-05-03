@@ -14,13 +14,13 @@ I mean, surely this doctrine is not something we just consent with the will and 
 
 I like to compare it to the Eucharist: it has a practical content, its not just intellectual: its not just remembering alone. Its not even just getting together and telling stories. Its constructing a civilization capable of producing bread and wine. Implicit in the liturgical act there’s a need for building a sort of civilization.
 
-Simillarly, what is the practical content of the Kingship of Christ? The integralists always say its the Kindship of Christ *over all things, including over the political order*.
+Similarly, what is the practical content of the Kingship of Christ? The integralists always say its the Kindship of Christ *over all things, including over the political order*.
 
 Consequentelly, its not just the Kingship over my intellect and will, my actions, my house, my household, etc. Its a Kingship over commerce, the legislature, the judges, the city, etc.
 
 That is, its not something just about me, or even about my community, but about all other people.
 
-One way to know what this would ultimatelly means is: think, integralist, what would you do if you get all the power tomorrow. What would you do?
+One way to know what this would ultimately means is: think, integralist, what would you do if you get all the power tomorrow. What would you do?
 
 I mean, besides just legislating on the usual conservative talking points, like abortion and gay stuff. Maybe there’d be some distributism stuff. Maybe there’d be a sort of apartheid: the baptized against the non-baptized.
 
