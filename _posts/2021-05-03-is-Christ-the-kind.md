@@ -28,7 +28,7 @@ Ok, the most radical thing — meaning the most thing far from our current predi
 
 But creating second class citizens. That requires power. If this is the end (I don’t presume to talk on behalf of integralists, I’m just speculating here), then we should do it. Because the doctrine has practical implications. How do we get the power?
 
-Now, this is where integralists go silent: they don’t know how to get the power. They don’t even think about it (maybe they do in some secret society).
+Now, this is where integralists go silent: they don’t know how to get the power. They don’t even think about it (maybe they do in some secret society). They are not even creative. I remember one day, many years ago, suggesting to a traditionalist priest that they should accept donations in bitcoin. He laughed it off. His reach would be immense now. Wise as a serpent? Maybe, but not on many occasions.
 
 Which means, they don’t really believe in the Kindship of Christ in the way they describe it. They are larping.
 
