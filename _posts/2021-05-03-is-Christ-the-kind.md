@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Christ the Kind?
+title: Is Christ the King?
 description: wut
 summary: wut
 comments: false
