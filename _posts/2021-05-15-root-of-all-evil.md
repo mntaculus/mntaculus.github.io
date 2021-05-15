@@ -1,4 +1,10 @@
-# root of all evil
+---
+layout: post
+title: root of all evil
+description: wut
+summary: wut
+comments: false
+---
 
 Why does St. Paul says the « *love of money is the root of all evil* » ?
 
@@ -33,22 +39,3 @@ I think I have a solution: the problem here is not really the form of the power,
 So, one should use/obtain money, which is power, ordered to these loves and not simply use/obtain money as its own principle — that’d be like power for power’s sake; a king of voluntarism, really.
 
 And this should apply for the other form of power, i.e., political (or military; which is really the same as the political) power.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
