@@ -6,7 +6,7 @@ summary: wut
 comments: false
 ---
 
-![](solve.png)
+![](/solve.png)
 
 That’s an important question. That is: given a society (with history, guys; let’s not be physicists and model a historyless society so we can solve exactly those ugly non-linear, tensor equations), how do we solve it? 
 
