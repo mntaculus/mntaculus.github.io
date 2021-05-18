@@ -6,6 +6,8 @@ summary: wut
 comments: false
 ---
 
+![](solve.png)
+
 That’s an important question. That is: given a society (with history, guys; let’s not be physicists and model a historyless society so we can solve exactly those ugly non-linear, tensor equations), how do we solve it? 
 
 There is a question of solving it to what. Maximize happiness? (then we would have to define it) Minimize violence? (is this the same? Also, what’s violence).
