@@ -1,5 +1,10 @@
-# Left wing aesthethics
-#blog
+---
+layout: post
+title: left wing aesthethics
+description: wut
+summary: wut
+comments: false
+---
 
 Of course I pile on the right more than on the left.
 
