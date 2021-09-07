@@ -1,5 +1,10 @@
-# Right wing aesthetics
-#blog/21
+---
+layout: post
+title: right wing aesthetics
+description: wut
+summary: wut
+comments: false
+---
 
 I don’t remember exactly where, but in one of the episodes of [the Josias podcast](https://thejosias.com/category/blog/podcast-episodes/) someone (sorry, can’t recall who) made the point that one of the fundamental values of liberalism today is not to offend — to be nice. So questions about the truth are subordinate to concerns of how this might affect someone.
 
