@@ -6,6 +6,12 @@ summary: wut
 comments: false
 ---
 
+“ *This is an extremely acquired taste, if “taste” is even the word.*  “
+
+I love the quote above. Its about right wing aesthethics and it really captures something — the way one must convert one’s whole being when one decides to be part of some ideology/movement.
+
+Anyway.
+
 I don’t remember exactly where, but in one of the episodes of [the Josias podcast](https://thejosias.com/category/blog/podcast-episodes/) someone (sorry, can’t recall who) made the point that one of the fundamental values of liberalism today is not to offend — to be nice. So questions about the truth are subordinate to concerns of how this might affect someone.
 
 And recently I’ve noticed that I, who have always thought of myself as having a conservative disposition — even when it wasn’t cool to admit it — have been repelled by the modern right as it exists today.
